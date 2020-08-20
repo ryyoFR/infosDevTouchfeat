@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+### Projet :
+Ce projet, nommé "TouchFeatProj" dans sa version actuelle "V1.0.0" est un projet créé et lancé par Hugo Hoarau le 31 juillet 2020.
+--
+### Conditions d'aide au développement :
+Pour nous aider à développer, vous devrez 
 
-You can use the [editor on GitHub](https://github.com/ryyoFR/infosDevTouchfeat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* accepter vous n'êtes pas payé, vous nous aidez, donc en **bénévolat**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* ne pas essayer de nuire au bon déroulement du projet, pour quelque domaine que cela soit. Cela inclue **de ne pas déranger, insulter, harceler les membres de l'équipe.** **Le développement se fera sur un espace commun, n'effacez pas le code que quelqu'un vient d'écrire.**
 
-### Markdown
+* ne pas abuser de notre confiance, lorsque vous développerez le projet et éditerai le code. Vous devrez **ne pas supprimer/créér de fichiers sans mon autorisation, ne pas modifier/supprimer les modules**. **Sachez, que nous vérifions ce qui se passe, que ce soit sur le projet ou sur Discord, nous pouvons avec ces évènements, enlever/donner des permissions, exclure des membres du projet. Si vous essayez de nous faire un sale coup en supprimant l'intégralité du projet, ou une grosse partie, nous pouvons très facilement et efficacement restaurer le projet grâce aux backups fréquentes.** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* ne pas faire de copie du projet, qu'elle soit partielle ou intégrale, pour un autre usage que le **développement du projet**.
 
-```markdown
-Syntax highlighted code block
+* effectuer des tests fréquents de votre code, pour vous assurer qu'il soit **fonctionnel à tout instant**. Mettez en commentaire, les morceaux de code dont vous n'êtes pas sûr.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Nous comprenons que vous développez sur votre temps libre, on ne vous met ___aucune pression___ au niveau du temps.**
+--
+### Informations sur le développement :
+* Vous devrez dans chaque commentaire laissé, préciser votre nom sur Discord, de la manière suivante :
+```cpp
+##Ryyō#5715 : Mon commentaire ici, blablabla...
 ```
+* Au cas où vous avez un doute, contactez Hugo Hoarau (/ MR.Chug_#0751) ou moi (Ryyō#5715), vous pouvez envoyer un email à l'adresse **temporaire** : `touchfeat.eu@protonmail.com`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**RAPPEL :**
 
-### Jekyll Themes
+|Projet|Contact|
+|--------|--------|
+| TouchFeatProj V1.0.0 | / MR.Chug_#0751 ;  Ryyō#5715 ; touchfeat.eu@protonmail.com |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryyoFR/infosDevTouchfeat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***Rédigé par Ryyō#5715 le 20/08/2020.***
+**© - TouchFeat 2020, by Hugo Hoarau.**
