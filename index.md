@@ -25,9 +25,9 @@ Pour nous aider à développer, vous devrez
 
 **RAPPEL :**
 
-|Projet|Contact|
-|--------|--------|
-| TouchFeatProj V1.0.0 | / MR.Chug_#0751 ;  Ryyō#5715 ; touchfeat.eu@protonmail.com |
+|Projet|Contact|Langage|Lib frontend|
+|--------|--------||--------||--------|
+| TouchFeatProj V1.0.0 | / MR.Chug_#0751 ;  Ryyō#5715 ; touchfeat.eu@protonmail.com |Python|Décision pas encore prise (nous ferons le choix avec l'ensemble des dévs)|
 
 ***Rédigé par Ryyō#5715 le 20/08/2020.***
 **© - TouchFeat 2020, by Hugo Hoarau.**
